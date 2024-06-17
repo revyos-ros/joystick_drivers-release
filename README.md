@@ -1,3 +1,36 @@
+## joystick_drivers (jazzy) - 3.3.0-4
+
+The packages in the `joystick_drivers` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy joystick_drivers --override-release-repository-push-url git@github.com:revyos-ros/joystick_drivers-release.git` on `Mon, 17 Jun 2024 03:49:26 -0000`
+
+These packages were released:
+- `joy`
+- `joy_linux`
+- `sdl2_vendor`
+- `spacenav`
+- `wiimote`
+- `wiimote_msgs`
+
+These packages were explicitly ignored:
+- `joystick_drivers`
+- `ps3joy`
+
+Version of package(s) in repository `joystick_drivers`:
+
+- upstream repository: https://github.com/ros-drivers/joystick_drivers.git
+- release repository: https://github.com/revyos-ros/joystick_drivers-release.git
+- rosdistro version: `3.3.0-3`
+- old version: `3.3.0-3`
+- new version: `3.3.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## joystick_drivers (humble) - 3.3.0-1
 
 The packages in the `joystick_drivers` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble joystick_drivers` on `Tue, 31 Oct 2023 01:18:21 -0000`
