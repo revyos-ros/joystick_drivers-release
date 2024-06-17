@@ -1,0 +1,141 @@
+ros-jazzy-wiimote-msgs (3.3.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Mon, 30 Oct 2023 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (3.2.0-4noble) noble; urgency=high
+
+  * Remove trailing whitespace from .msg files. (#237 <https://github.com/ros-drivers/joystick_drivers/issues/237>)
+  * Contributors: Chris Lalancette
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Mon, 09 Oct 2023 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (3.1.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Thu, 27 Jan 2022 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (3.0.1-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Thu, 27 Jan 2022 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (3.0.0-4noble) noble; urgency=high
+
+  * Port over Wiimote to ROS2 Foxy (#175 <https://github.com/ros-drivers/joystick_drivers/issues/175>)
+  * Contributors: Kuni Natsuki
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Thu, 11 Mar 2021 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (2.4.1-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Tue, 12 May 2020 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (2.4.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Mon, 11 May 2020 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.13.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sun, 23 Jun 2019 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.12.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sun, 10 Jun 2018 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.11.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Fri, 10 Feb 2017 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.10.1-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sat, 23 May 2015 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.10.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Wed, 25 Jun 2014 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.10-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sun, 28 Apr 2013 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.9-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Tue, 12 Mar 2013 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.8-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sat, 02 Feb 2013 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.7-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Mon, 21 Jan 2013 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.6-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Wed, 19 Dec 2012 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.5-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Thu, 13 Dec 2012 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.4-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Mon, 05 Nov 2012 16:00:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.3-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sun, 04 Nov 2012 15:46:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.2-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sun, 04 Nov 2012 00:53:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.1-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sat, 03 Nov 2012 17:56:00 -0000
+
+ros-jazzy-wiimote-msgs (1.9.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Fri, 02 Nov 2012 16:00:00 -0000
+
+
