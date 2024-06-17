@@ -1,0 +1,80 @@
+ros-jazzy-spacenav (3.3.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Mon, 30 Oct 2023 16:00:00 -0000
+
+ros-jazzy-spacenav (3.2.0-4noble) noble; urgency=high
+
+  * add option to use TwistStamped (#251 <https://github.com/ros-drivers/joystick_drivers/issues/251>)
+  * Changed name of executable in launch files to match installed node (#230 <https://github.com/ros-drivers/joystick_drivers/issues/230>)
+  * Fix publishing of spacenav button values (#243 <https://github.com/ros-drivers/joystick_drivers/issues/243>)
+  * Fix from-source build with missing dependencies (#242 <https://github.com/ros-drivers/joystick_drivers/issues/242>)
+  * Installing libspacenav.so to lib/ for spacenav_node execution via ros2 run (#229 <https://github.com/ros-drivers/joystick_drivers/issues/229>)
+  * Contributors: Borong Yuan, Stefan Scherzinger, chriseichmann
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Mon, 09 Oct 2023 16:00:00 -0000
+
+ros-jazzy-spacenav (3.1.0-4noble) noble; urgency=high
+
+  * Install includes to include/ and misc CMake fixes (#225 <https://github.com/ros-drivers/joystick_drivers/issues/225>)
+  * Style fixes for newer cpplint.
+  * Contributors: Chris Lalancette, Shane Loretz
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Thu, 27 Jan 2022 16:00:00 -0000
+
+ros-jazzy-spacenav (3.0.1-4noble) noble; urgency=high
+
+  * Make sure to ament_target_dependencies on rclcpp_components (#209 <https://github.com/ros-drivers/joystick_drivers/issues/209>)
+  * Contributors: Chris Lalancette
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Thu, 27 Jan 2022 16:00:00 -0000
+
+ros-jazzy-spacenav (3.0.0-4noble) noble; urgency=high
+
+  * spacenav node changed for ros2 (#194 <https://github.com/ros-drivers/joystick_drivers/issues/194>)
+  * Contributors: Nils Schulte
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Thu, 11 Mar 2021 16:00:00 -0000
+
+ros-jazzy-spacenav (1.13.0-4noble) noble; urgency=high
+
+
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sun, 23 Jun 2019 16:00:00 -0000
+
+ros-jazzy-spacenav (1.12.0-4noble) noble; urgency=high
+
+  * Adding tested spacenav scaling
+  * Added README
+  * Addressed numerous outstanding PRs.
+  * Changed package xml to format 2
+  * Reduce the number of scale params in spacenav_node
+  * Add a scale parameter to each axis in spacenav_node
+    Do not apply the scale to the joy topic.
+  * Contributors: Gaël Ecorchard, Jonathan Bohren, jprod123
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sun, 10 Jun 2018 16:00:00 -0000
+
+ros-jazzy-spacenav (1.11.0-4noble) noble; urgency=high
+
+  * Update dependencies to remove warnings
+  * Contributors: Mark D Horn
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Thu, 09 Feb 2017 16:00:00 -0000
+
+ros-jazzy-spacenav (1.10.1-4noble) noble; urgency=high
+
+  * Add full_scale parameter and apply to offset
+  * Remove stray architechture_independent flags
+  * Contributors: Gaël Ecorchard, Jonathan Bohren, Scott K Logan
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Sat, 23 May 2015 16:00:00 -0000
+
+ros-jazzy-spacenav (1.10.0-4noble) noble; urgency=high
+
+  * First indigo release
+
+ -- Jonathan Bohren <jbo@jhu.edu>  Wed, 25 Jun 2014 16:00:00 -0000
+
+
