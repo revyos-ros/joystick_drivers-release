@@ -1,0 +1,47 @@
+ros-jazzy-sdl2-vendor (3.3.0-4noble) noble; urgency=high
+
+  * Upgrade to SDL2.0.20 (#270 <https://github.com/ros-drivers/joystick_drivers/issues/270>)
+  * Contributors: Patrick Roncagliolo
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Mon, 30 Oct 2023 16:00:00 -0000
+
+ros-jazzy-sdl2-vendor (3.2.0-4noble) noble; urgency=high
+
+
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Mon, 09 Oct 2023 16:00:00 -0000
+
+ros-jazzy-sdl2-vendor (3.1.0-4noble) noble; urgency=high
+
+
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Thu, 27 Jan 2022 16:00:00 -0000
+
+ros-jazzy-sdl2-vendor (3.0.1-4noble) noble; urgency=high
+
+  * Update SDL2 vendored library to 2.0.14. (#202 <https://github.com/ros-drivers/joystick_drivers/issues/202>)
+  * Contributors: Chris Lalancette
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Thu, 27 Jan 2022 16:00:00 -0000
+
+ros-jazzy-sdl2-vendor (3.0.0-4noble) noble; urgency=high
+
+  * Use INTERFACE_LINK_OPTIONS in sdl2_vendor (#195 <https://github.com/ros-drivers/joystick_drivers/issues/195>)
+  * Contributors: Scott K Logan
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Thu, 11 Mar 2021 16:00:00 -0000
+
+ros-jazzy-sdl2-vendor (2.4.1-4noble) noble; urgency=high
+
+
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Tue, 12 May 2020 16:00:00 -0000
+
+ros-jazzy-sdl2-vendor (2.4.0-4noble) noble; urgency=high
+
+  * Cross platform joystick support for ROS 2 (#157 <https://github.com/ros-drivers/joystick_drivers/issues/157>)
+  * Contributors: Chris Lalancette
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Mon, 11 May 2020 16:00:00 -0000
+
+
