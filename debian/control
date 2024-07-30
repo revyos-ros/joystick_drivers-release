@@ -1,0 +1,12 @@
+Source: ros-humble-spacenav
+Section: misc
+Priority: optional
+Maintainer: Jonathan Bohren <jbo@jhu.edu>
+Build-Depends: debhelper (>= 9.0.0), libspnav-dev, libx11-dev, ros-humble-ament-cmake, ros-humble-ament-lint-auto <!nocheck>, ros-humble-ament-lint-common <!nocheck>, ros-humble-geometry-msgs, ros-humble-rclcpp, ros-humble-rclcpp-components, ros-humble-sensor-msgs, ros-humble-ros-workspace
+Homepage: http://www.ros.org/wiki/spacenav_node
+Standards-Version: 3.9.2
+
+Package: ros-humble-spacenav
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libspnav-dev, libx11-dev, ros-humble-geometry-msgs, ros-humble-rclcpp, ros-humble-rclcpp-components, ros-humble-sensor-msgs, spacenavd, ros-humble-ros-workspace
+Description: ROS interface to the 3Dconnexion SpaceNavigator 6DOF joystick.
