@@ -1,0 +1,12 @@
+Source: ros-humble-sdl2-vendor
+Section: misc
+Priority: optional
+Maintainer: Chris Lalancette <clalancette@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), libsdl2-dev, ros-humble-ament-cmake, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-sdl2-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libsdl2-dev, ros-humble-ros-workspace
+Description: Vendor library for SDL2.
