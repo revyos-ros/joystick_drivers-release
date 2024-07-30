@@ -1,0 +1,13 @@
+Source: ros-humble-joy-linux
+Section: misc
+Priority: optional
+Maintainer: Chris Lalancette <clalancette@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ament-lint-auto <!nocheck>, ros-humble-ament-lint-common <!nocheck>, ros-humble-diagnostic-msgs, ros-humble-diagnostic-updater, ros-humble-rclcpp, ros-humble-sensor-msgs, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-joy-linux
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-diagnostic-msgs, ros-humble-diagnostic-updater, ros-humble-rclcpp, ros-humble-sensor-msgs, ros-humble-ros-workspace
+Description: ROS2 driver for a generic Linux joystick.
+ Will contain a MacOS and Windows version later. The joy package contains joy_node, a node that interfaces a generic Linux joystick to ROS2. This node publishes a &quot;Joy&quot; message, which contains the current state of each one of the joystick's buttons and axes.
